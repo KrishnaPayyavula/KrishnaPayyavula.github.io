@@ -1,0 +1,10 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Krishna Payyavula'
+theme = 'ananke'
+
+
+[params]
+  description = "Portfolio and technical blog by Krishna Payyavula - Data Engineering Innovator: Enhancing Customer Service at Postnord | MultiCloud | Conversational AI | Node.JS"
+  githubURL = "https://github.com/KrishnaPayyavula"
+  linkedinURL = "https://www.linkedin.com/in/krishnapayyavula/"
