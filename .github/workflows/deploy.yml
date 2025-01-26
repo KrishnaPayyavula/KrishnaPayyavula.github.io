@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     if: github.ref == 'refs/heads/main'  # Extra safeguard
     
     steps:
@@ -18,7 +18,7 @@ jobs:
           fetch-depth: 0  # Required for Hugo version detection
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.142.0'
           extended: true
