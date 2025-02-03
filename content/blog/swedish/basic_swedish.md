@@ -17,6 +17,9 @@ cover:
 ---
 
 
+![Learning Swedish](/images/evelina_ytterbom-learning_swedish-8679.jpg)
+*Credits: Evelina Ytterbom / imagebank.sweden.se*
+
 ### Swedish Greetings and Courtesies  
 
 Start your Swedish journey with these essential phrases:
