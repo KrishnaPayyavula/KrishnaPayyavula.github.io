@@ -8,11 +8,6 @@ tags: ["Swedish Language", "Culture", "Travel Tips"]
 
 categories: ["Language Learning"]
 
-cover:
-
-  image: "https://example.com/swedish-cover.jpg" # Replace with your cover image
-
-  alt: "Swedish flag and cinnamon buns"
 
 ---
 
